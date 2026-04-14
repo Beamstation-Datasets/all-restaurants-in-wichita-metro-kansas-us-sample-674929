@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Wichita (Metro), Kansas metropolitan area, spanning Wichita. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Wichita (Metro), Kansas, US",
+  "export_job_id": "6007aba0-ffd7-4307-96f7-29a1e4fdf77a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 674929,
+  "location_name": "Wichita, KS",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-wichita-metro-kansas-us-sample-674929",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/674929/beamstation_674929_restaurants-us-wichitaks_SAMPLE_DIST.csv",
+  "sample_pct": 10.67,
+  "sample_records": 156,
+  "sample_sha256": "d3450e29c2cf0f82021745dd30841c491c4952b4c29d27bc4b202f76a37c8272",
+  "sample_size_bytes": 541986,
+  "total_records": 1462,
+  "updated_at": "2026-03-31T16:04:11.108701+00:00"
+}
