@@ -9,9 +9,9 @@
 | Dataset ID | `674929` |
 | Location | Wichita, KS |
 | Category | Restaurants |
-| Full dataset size | 1,462 records |
-| Free sample size | 156 records (10.67%) |
-| Last export | 2026-03-31T16:04:11.108701+00:00 |
+| Full dataset size | 1,564 records |
+| Free sample size | 156 records (9.97%) |
+| Last export | 2026-04-14T16:51:56.043034+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wichita-metro-kansas-us-sample-674929/releases/download/sample-latest/beamstation_674929_restaurants-us-wichitaks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
