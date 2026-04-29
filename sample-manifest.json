@@ -1,12 +1,12 @@
 {
-  "export_job_id": "597256e0-eae5-4309-b54d-8cc4f43e3a02",
+  "export_job_id": "2fd9c631-a922-422f-a86c-b51eaffa5172",
   "id_short": 674929,
-  "published_at": "2026-04-21T19:41:07Z",
+  "published_at": "2026-04-29T07:09:13Z",
   "repo_name": "all-restaurants-in-wichita-metro-kansas-us-sample-674929",
   "sample_asset_name": "beamstation_674929_restaurants-us-wichitaks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/674929/beamstation_674929_restaurants-us-wichitaks_SAMPLE_DIST.csv",
-  "sample_records": 54,
-  "sample_sha256": "b1ba56c6cb6a4c419e00cba40d7a75fbb43188a685b0ce0b59ef8c32776cbafa",
-  "sample_size_bytes": 183548,
-  "total_records": 548
+  "sample_records": 157,
+  "sample_sha256": "46deab4c1a4c9823e8769d87cbb148dd142ff8fbb05040a50540feaa6b30b103",
+  "sample_size_bytes": 512143,
+  "total_records": 1572
 }
